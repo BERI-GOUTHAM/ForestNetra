@@ -19,9 +19,9 @@
 // ============================================================
 
 #define WIFI_SSID       "GUEST_SECURED"
-#define EAP_IDENTITY    "berig"
-#define EAP_USERNAME    "berig"
-#define EAP_PASSWORD    "BeriG@1011"
+#define EAP_IDENTITY    "upload your identity"
+#define EAP_USERNAME    "your username"
+#define EAP_PASSWORD    "your password"
 
 // ============================================================
 // ADAFRUIT IO CONFIGURATION
